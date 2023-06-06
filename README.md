@@ -30,7 +30,9 @@ https://vimeo.com/832694324
 
 - Das Projekt kann ohne zweiten Bildschirm und RFID-Lesegerät in Unity simuliert werden
 
-## Installation (Unity-Projekt: OrderInNatureAndForrest_001):
+## Installation
+
+### Unity-Projekt: OrderInNatureAndForrest_001
 
 Der vollständige Quellcode des Unity Projektes kann bei Senckenberg Museum für Naturkunde Görlitz oder dem nhm Mainz angefragt werden.
 
